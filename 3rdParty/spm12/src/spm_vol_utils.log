@@ -1,0 +1,422 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=mex 2017.11.6)  30 DEC 2017 22:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**spm_vol_utils.c -DSPM_UNSIGNED_CHAR
+(./spm_vol_utils.c
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+! You can't use `macro parameter character #' in vertical mode.
+l.6 #
+     define TINY 5e-2
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.8 #
+     ifdef SPM_UNSIGNED_CHAR
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.8 #ifdef SPM_
+               UNSIGNED_CHAR
+? 
+! You can't use `macro parameter character #' in math mode.
+l.9 #
+     define RESAMPLE resample_uchar
+? 
+! You can't use `macro parameter character #' in math mode.
+l.10 #
+      define RESAMPLE_D resample_d_uchar
+? 
+! Double subscript.
+l.10 #define RESAMPLE_D resample_d_
+                                   uchar
+? 
+! You can't use `macro parameter character #' in math mode.
+l.11 #
+      define SLICE slice_uchar
+? 
+! You can't use `macro parameter character #' in math mode.
+l.12 #
+      define RESAMPLE_0 resample_uchar_0
+? 
+! You can't use `macro parameter character #' in math mode.
+l.13 #
+      define RESAMPLE_1 resample_uchar_1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.14 #
+      define RESAMPLE_D_1 resample_d_uchar_1
+? 
+! Double subscript.
+l.14 #define RESAMPLE_D_
+                        1 resample_d_uchar_1
+? 
+! Double subscript.
+l.14 #define RESAMPLE_D_1 resample_d_
+                                     uchar_1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.15 #
+      define RESAMPLE_POLY resample_uchar_poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.16 #
+      define RESAMPLE_D_POLY resample_d_uchar_poly
+? 
+! Double subscript.
+l.16 #define RESAMPLE_D_
+                        POLY resample_d_uchar_poly
+? 
+! Double subscript.
+l.16 #define RESAMPLE_D_POLY resample_d_
+                                        uchar_poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.17 #
+      define SLICE_0 slice_uchar_0
+? 
+! You can't use `macro parameter character #' in math mode.
+l.18 #
+      define SLICE_1 slice_uchar_1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.19 #
+      define SLICE_POLY slice_uchar_poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.20 #
+      define PLANE plane_uchar
+? 
+! You can't use `macro parameter character #' in math mode.
+l.21 #
+      define GET(x) (x)
+? 
+! You can't use `macro parameter character #' in math mode.
+l.22 #
+      define IMAGE_DTYPE unsigned char
+? 
+! You can't use `macro parameter character #' in math mode.
+l.23 #
+      endif
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.24 
+     
+? 
+
+Overfull \hbox (1849.64622pt too wide) in paragraph at lines 8--24
+[]\tenrm ifdef SPM$[]\teni NSIGNED[]HARdefineRESAMPLEresample[]chardefineRESAMP
+LE[]resample[][]chardefineSLICEslice[]chardefineRESAMPLE[]resample[]char[]defin
+eRESAMPLE[]resample[]char[]defineRESAMPLE[][]resample[][]char[]defineRESAMPLE[]
+OLYresample[]char[]olydefineRESAMPLE[][]OLYresample[][]char[]olydefineSLICE[]sl
+ice[]char[]defineSLICE[]slice[]char[]defineSLICE[]OLYslice[]char[]olydefinePLAN
+Eplane[]chardefineGET\tenrm (\teni x\tenrm )(\teni x\tenrm )\teni defineIMAGE[]
+TYPEunsignedcharendif$ |
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm f
+.\tenrm d
+.\tenrm e
+.etc.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.25 #
+      ifdef SPM_SIGNED_CHAR
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.25 #ifdef SPM_
+                SIGNED_CHAR
+? 
+! You can't use `macro parameter character #' in math mode.
+l.26 #
+      define RESAMPLE resample_schar
+? 
+! You can't use `macro parameter character #' in math mode.
+l.27 #
+      define RESAMPLE_D resample_d_schar
+? 
+! Double subscript.
+l.27 #define RESAMPLE_D resample_d_
+                                   schar
+? 
+! You can't use `macro parameter character #' in math mode.
+l.28 #
+      define SLICE slice_schar
+? 
+! You can't use `macro parameter character #' in math mode.
+l.29 #
+      define RESAMPLE_0 resample_schar_0
+? 
+! You can't use `macro parameter character #' in math mode.
+l.30 #
+      define RESAMPLE_1 resample_schar_1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.31 #
+      define RESAMPLE_D_1 resample_d_schar_1
+? 
+! Double subscript.
+l.31 #define RESAMPLE_D_
+                        1 resample_d_schar_1
+? 
+! Double subscript.
+l.31 #define RESAMPLE_D_1 resample_d_
+                                     schar_1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.32 #
+      define RESAMPLE_POLY resample_schar_poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.33 #
+      define RESAMPLE_D_POLY resample_d_schar_poly
+? 
+! Double subscript.
+l.33 #define RESAMPLE_D_
+                        POLY resample_d_schar_poly
+? 
+! Double subscript.
+l.33 #define RESAMPLE_D_POLY resample_d_
+                                        schar_poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.34 #
+      define SLICE_0 slice_schar_0
+? 
+! You can't use `macro parameter character #' in math mode.
+l.35 #
+      define SLICE_1 slice_schar_1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.36 #
+      define SLICE_POLY slice_schar_poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.37 #
+      define PLANE plane_schar
+? 
+! You can't use `macro parameter character #' in math mode.
+l.38 #
+      define GET(x) (x)
+? 
+! You can't use `macro parameter character #' in math mode.
+l.39 #
+      define IMAGE_DTYPE signed char
+? 
+! You can't use `macro parameter character #' in math mode.
+l.40 #
+      endif
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.41 
+     
+? 
+
+Overfull \hbox (1809.73607pt too wide) in paragraph at lines 25--41
+[]\tenrm ifdef SPM$[]\teni IGNED[]HARdefineRESAMPLEresample[]chardefineRESAMPLE
+[]resample[][]chardefineSLICEslice[]chardefineRESAMPLE[]resample[]char[]defineR
+ESAMPLE[]resample[]char[]defineRESAMPLE[][]resample[][]char[]defineRESAMPLE[]OL
+Yresample[]char[]olydefineRESAMPLE[][]OLYresample[][]char[]olydefineSLICE[]slic
+e[]char[]defineSLICE[]slice[]char[]defineSLICE[]OLYslice[]char[]olydefinePLANEp
+lane[]chardefineGET\tenrm (\teni x\tenrm )(\teni x\tenrm )\teni defineIMAGE[]TY
+PEsignedcharendif$ |
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm f
+.\tenrm d
+.\tenrm e
+.etc.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.42 #
+      ifdef SPM_SIGNED_SHORT
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.42 #ifdef SPM_
+                SIGNED_SHORT
+? 
+! You can't use `macro parameter character #' in math mode.
+l.43 #
+      ifdef SPM_BYTESWAP
+? 
+! You can't use `macro parameter character #' in math mode.
+l.44 #
+      define GET(x) getshort(x)
+? 
+! You can't use `macro parameter character #' in math mode.
+l.45 #
+      define RESAMPLE resample_short_s
+? 
+! You can't use `macro parameter character #' in math mode.
+l.46 #
+      define RESAMPLE_D resample_d_short_s
+? 
+! Double subscript.
+l.46 #define RESAMPLE_D resample_d_
+                                   short_s
+? 
+! You can't use `macro parameter character #' in math mode.
+l.47 #
+      define SLICE slice_short_s
+? 
+! You can't use `macro parameter character #' in math mode.
+l.48 #
+      define RESAMPLE_0 resample_short_s_0
+? 
+! Double subscript.
+l.48 #define RESAMPLE_0 resample_short_s_
+                                         0
+? 
+! You can't use `macro parameter character #' in math mode.
+l.49 #
+      define RESAMPLE_1 resample_short_s_1
+? 
+! Double subscript.
+l.49 #define RESAMPLE_1 resample_short_s_
+                                         1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.50 #
+      define RESAMPLE_D_1 resample_d_short_s_1
+? 
+! Double subscript.
+l.50 #define RESAMPLE_D_
+                        1 resample_d_short_s_1
+? 
+! Double subscript.
+l.50 #define RESAMPLE_D_1 resample_d_
+                                     short_s_1
+? 
+! Double subscript.
+l.50 #define RESAMPLE_D_1 resample_d_short_s_
+                                             1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.51 #
+      define RESAMPLE_POLY resample_short_s_poly
+? 
+! Double subscript.
+l.51 #define RESAMPLE_POLY resample_short_s_
+                                            poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.52 #
+      define RESAMPLE_D_POLY resample_d_short_s_poly
+? 
+! Double subscript.
+l.52 #define RESAMPLE_D_
+                        POLY resample_d_short_s_poly
+? 
+! Double subscript.
+l.52 #define RESAMPLE_D_POLY resample_d_
+                                        short_s_poly
+? 
+! Double subscript.
+l.52 #define RESAMPLE_D_POLY resample_d_short_s_
+                                                poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.53 #
+      define SLICE_0 slice_short_s_0
+? 
+! Double subscript.
+l.53 #define SLICE_0 slice_short_s_
+                                   0
+? 
+! You can't use `macro parameter character #' in math mode.
+l.54 #
+      define SLICE_1 slice_short_s_1
+? 
+! Double subscript.
+l.54 #define SLICE_1 slice_short_s_
+                                   1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.55 #
+      define SLICE_POLY slice_short_s_poly
+? 
+! Double subscript.
+l.55 #define SLICE_POLY slice_short_s_
+                                      poly
+? 
+! You can't use `macro parameter character #' in math mode.
+l.56 #
+      define PLANE plane_short_s
+? 
+! You can't use `macro parameter character #' in math mode.
+l.57 #
+      else
+? 
+! You can't use `macro parameter character #' in math mode.
+l.58 #
+      define GET(x) (x)
+? 
+! You can't use `macro parameter character #' in math mode.
+l.59 #
+      define RESAMPLE resample_short
+? 
+! You can't use `macro parameter character #' in math mode.
+l.60 #
+      define RESAMPLE_D resample_d_short
+? 
+! Double subscript.
+l.60 #define RESAMPLE_D resample_d_
+                                   short
+? 
+! You can't use `macro parameter character #' in math mode.
+l.61 #
+      define SLICE slice_short
+? 
+! You can't use `macro parameter character #' in math mode.
+l.62 #
+      define RESAMPLE_0 resample_short_0
+? 
+! You can't use `macro parameter character #' in math mode.
+l.63 #
+      define RESAMPLE_1 resample_short_1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.64 #
+      define RESAMPLE_D_1 resample_d_short_1
+? 
+! Double subscript.
+l.64 #define RESAMPLE_D_
+                        1 resample_d_short_1
+? 
+! Double subscript.
+l.64 #define RESAMPLE_D_1 resample_d_
+                                     short_1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.65 #
+      define RESAMPLE_POLY resample_short_poly
+? ^^X
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? X
+No pages of output.
